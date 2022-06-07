@@ -13,3 +13,7 @@ Note: --force is needed as there is some mismatch in underlying dependencies
 
 `npm run start`
 This will open a browser window at `http://localhost:3000`.
+
+## output
+
+![gif](https://raw.githubusercontent.com/vikrantshroti/assignment-thinklink/master/output.gif)
