@@ -1,0 +1,35 @@
+.cc-main-container {
+  height: 12.3vh;
+  width: 15.88vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 4px;
+  padding: 16px;
+  margin-right: 20px;
+}
+
+.cc-title-text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.cc-img-container {
+  width: 10%;
+}
+
+.cc-main-container-1 {
+  box-shadow: 0px -2px 0px #ffaa2c, 0px 2px 11px rgba(0, 0, 0, 0.06);
+}
+
+.cc-main-container-2 {
+  box-shadow: 0px -2px 0px #2c67ff, 0px 2px 11px rgba(242, 242, 242, 0.5);
+}
+
+.cc-main-container-3 {
+  box-shadow: 0px -2px 0px #00cf3a, 0px 2px 11px rgba(242, 242, 242, 0.5);
+}
+
+.cc-main-container-4 {
+  box-shadow: 0px -2px 0px #ff1c1c, 0px 2px 11px rgba(242, 242, 242, 0.5);
+}
